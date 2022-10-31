@@ -23,7 +23,7 @@
         "scripts/system-module.mjs"
     ],
     "styles": [
-        "styles/system-styles"
+        "styles/system-styles.css"
     ],
     "languages": [
         {
